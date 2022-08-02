@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&family=Roboto+Condensed:wght@300;400&family=Yantramanav&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.logo {
+    width: 50%;
+    margin-left: 15px;
+}
+.inicio {
+    background-color: white;
+    color: #496682;
+    font-size: medium;
+    font-weight: bold;
+
+}
+.colorboton {
+    background-color: #496682;
+    color: white;
+}
+.magia {
+    background-color: #496682;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.vistiendo {
+    font-size:large;
+}
+.juntos {
+    font-size: medium;
+}
+.look {
+    color: #496682;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px;
+}
+.tarjetas {
+    width: 55%;
+    display: flex; 
+    margin: 0px 245px;
+    
+}
+.tarj {
+    width: 40%;  
+}
+.producto {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
